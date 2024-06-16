@@ -1,1 +1,25 @@
-# cloud
+# AWS Certifications
+
+## Foundational
+
+- [![AWS Certified Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_512x512.224c0ef2b91a48d0.png)](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1) [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1)
+- [![AWS Certified AI Practitioner](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-AI-Practitioner_512x512.5ab28c9eb833e4c3.png)](https://aws.amazon.com/certification/certified-ai-practitioner/?ch=sec&sec=rmg&d=1) [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/?ch=sec&sec=rmg&d=1)
+
+## Associate
+
+- [![AWS Certified SysOps Administrator – Associate](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_512x512.6d4927ae8ab5ffebd4e08d982984d34b.png)](https://aws.amazon.com/certification/certified-sysops-admin-associate/?ch=sec&sec=rmg&d=1) [AWS Certified SysOps Administrator – Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/?ch=sec&sec=rmg&d=1)
+- [![AWS Certified Developer – Associate](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_512x512.63c37482e62b511a6c8b15e9653390aa.png)](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1) [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1)
+- [![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_512x512.317914b6f3c9511cc394a7e5d4216c2e.png)](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1) [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)
+- [![AWS Certified Data Engineer – Associate](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Data-Engineer-Associate_512x512.b2f012345dd74f74b7872b37b0a062a0.png)](https://aws.amazon.com/certification/certified-data-engineer-associate/?ch=sec&sec=rmg&d=1) [AWS Certified Data Engineer – Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/?ch=sec&sec=rmg&d=1)
+- [![AWS Certified Machine Learning Engineer – Associate](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Engineer-Associate_512x512.9b6d6c237b35e9c45c9b1be28b89aabc.png)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/?ch=sec&sec=rmg&d=1) [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/?ch=sec&sec=rmg&d=1)
+
+## Professional
+
+- [![AWS Certified Solutions Architect – Professional](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_512x512.0dc7f6cf4bfae9e6c7d83a978d8d7b59.png)](https://aws.amazon.com/certification/certified-solutions-architect-professional/?ch=sec&sec=rmg&d=1) [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/?ch=sec&sec=rmg&d=1)
+- [![AWS Certified DevOps Engineer – Professional](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-DevOps-Engineer-Professional_512x512.57e69a34d7847d24b245f6ac5a9e5b6f.png)](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1) [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
+
+## Specialty
+
+- [![AWS Certified Advanced Networking – Specialty](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Advanced-Networking-Specialty_512x512.d7f9ec33b5cfc2e4d2c5b0cb43280ff9.png)](https://aws.amazon.com/certification/certified-advanced-networking-specialty/?ch=sec&sec=rmg&d=1) [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/?ch=sec&sec=rmg&d=1)
+- [![AWS Certified Machine Learning – Specialty](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_512x512.9b50b1160bcb7d56b5c3d991ab87e154.png)](https://aws.amazon.com/certification/certified-machine-learning-specialty/) [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+- [![AWS Certified Security – Specialty](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Security-Specialty_512x512.1df56687d45ed4d8eab6c8a78c0c39db.png)](https://aws.amazon.com/certification/certified-security-specialty/) [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
